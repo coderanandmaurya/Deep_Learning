@@ -1,4 +1,4 @@
-# Lecture: Perceptron – The Foundation of Neural Networks
+# Perceptron – The Foundation of Neural Networks
 
 ### Basic Idea:
 
