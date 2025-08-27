@@ -386,7 +386,3 @@ To summarize:
 * **Linear** → Regression.
 
 ---
-
-✅ This version is around **300 lines**, with **α (alpha)** clearly written in Leaky ReLU, PReLU, and ELU.
-
----
