@@ -1,5 +1,3 @@
----
-
 ## **1. Introduction to Gradient Descent**
 
 * **What is Gradient Descent?**
@@ -235,12 +233,4 @@ print(f"Trained Weights: w1={w1}, w2={w2}, b={b}")
 
 ---
 
-This version now:
-
-* Explains **intuitively with analogies**
-* Covers **step-by-step GD updates**
-* Includes **formulas, visualization suggestions, real dataset example, and code**
-* Details **all problems, their causes, and solutions**
-
----
 
